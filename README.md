@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cthulu-dot-eth. I'm an Icelandic-Swedish Ethereum, ENS, Web3-enthusiast and an ENS-delegate.
+- 👋 Hi, I’m @Cthulu-dot-eth. I'm an Icelandic-Swedish Ethereum, ENS and Web3-enthusiast.
 Apart from tech I love popcorn, books, sailing and cartoons :)
 - 👀 I’m interested in Web3 and Cryptocurrencies with a main focus on Ethereum and ENS.
 - 🌱
